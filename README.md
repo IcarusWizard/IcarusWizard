@@ -1,7 +1,7 @@
 ### Hi there, I am Xingyuan Zhang 张兴远. 👋
 
 - 🔭I am a PhD student at Volkswagen and TUM, working on world models focusing on pretraining and transfer.
-- 🤔I am generally an AI enthusiast and interested in all related topics. I believe AGI can be achieved in my lifetime. 
+- 🤔I am generally an AI enthusiast and interested in all related topics. I believe AGI can be achieved in my lifetime, and I am glad to be part of the journey. 
 - ⚡In my non-research life, I am a board game lover. If you want a match with me, you can find me with IcarusWizard on [BGA](https://boardgamearena.com/).
 - 📫If you want to contact me, please reach out to wizardicarus@gamil.com.
 
